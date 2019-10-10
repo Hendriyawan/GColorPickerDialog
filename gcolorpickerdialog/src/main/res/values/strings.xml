@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GColorPickerDialog</string>
+    <string name="r">R</string>
+    <string name="g">G</string>
+    <string name="b">B</string>
+    <string name="a">A</string>
+    <string name="text_hex_r">ff</string>
+    <string name="text_hex_g">ff</string>
+    <string name="text_hex_b">ff</string>
+    <string name="text_hex_a">ff</string>
+</resources>

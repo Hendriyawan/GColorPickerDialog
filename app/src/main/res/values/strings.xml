@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Color Picker Dialog</string>
+    <string name="text_button_show_dialog">SHOW DIALOG</string>
+</resources>
