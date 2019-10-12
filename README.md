@@ -19,7 +19,7 @@ and add dependecy
 ```
 dependecies {
 	...
-	implementation 'com.github.Hendriyawan:GColorPickerDialog:1.0'
+	implementation 'com.github.Hendriyawan:GColorPickerDialog:2.0'
 }
 ```
 
