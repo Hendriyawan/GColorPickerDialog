@@ -24,7 +24,7 @@ dependecies {
 ```
 
 # Example
-```
+``` java
 puclic class MainActivity extends AppCompatActivity implements ColorPickerCallbak {
 	@BindView(R.id.text_view_hello_world)
 	TextView textViewHelloWorld;
