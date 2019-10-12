@@ -8,6 +8,7 @@ simple android library for color picker
 
 # Usage
 to use this library, you must add the jitpack.io repository
+* require support-appcompat-v7
 ```
 repository {
 	maven { url "https://jitpack.io" }
