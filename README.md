@@ -4,20 +4,23 @@ simple android library for color picker
 # Usage
 to use this library, you must add the jitpack.io repository
 
-``` repository {
+```
+repository {
 	maven { url "https://jitpack.io" }
 }
 ```
 
 and add dependecy
-``` dependecies {
+```
+dependecies {
 	...
 	implementation 'com.github.Hendriyawan:GColorPickerDialog:1.0'
 }
 ```
 
 # Example
-``` puclic class MainActivity extends AppCompatActivity implements ColorPickerCallbak {
+```
+puclic class MainActivity extends AppCompatActivity implements ColorPickerCallbak {
 	@BindView(R.id.text_view_hello_world)
 	TextView textViewHelloWorld;
 
@@ -36,7 +39,7 @@ and add dependecy
 
 	@Override
 	public void onColorSelected(int colorValue){
-		textViewHelloWorl.setTextColor(colorValue);
+		textViewHelloWorld.setTextColor(colorValue);
 	}
 }
 ```
