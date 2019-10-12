@@ -1,6 +1,6 @@
 # GColorPickerDialog [![](https://jitpack.io/v/Hendriyawan/GColorPickerDialog.svg)](https://jitpack.io/#Hendriyawan/GColorPickerDialog)
 simple android library for color picker
-
+* update 2.0 mode landscape
 <img src="https://raw.githubusercontent.com/Hendriyawan/GColorPickerDialog/master/ss_1.png" width="250"/>
 <img src="https://raw.githubusercontent.com/Hendriyawan/GColorPickerDialog/master/ss_2.png" width="250"/>
 <img src="https://raw.githubusercontent.com/Hendriyawan/GColorPickerDialog/master/ss_3.png" width="250"/>
